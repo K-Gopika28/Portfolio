@@ -1,1 +1,91 @@
-# Portfolio
+<!DOCTYPE html>
+<html>
+<head>
+  <title>K Gopika | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Font Awesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  
+<!-- Font Awesome for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+</head>
+<body>
+
+<nav>
+  <h2>K Gopika</h2>
+  <div>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#contact">Contact</a>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="hero-text">
+    <h1>Hi, I'm <span>K Gopika</span></h1>
+    <h3>Computer Science Engineering Student</h3>
+    <p>Interested in Software Development and Artificial Intelligence.</p>
+    <a class="btn" href="#projects">View Projects</a>
+  </div>
+  <img src="profile.jpg" class="hero-img" alt="Profile Picture">
+</section>
+
+<section id="about" class="card">
+  <h2>About Me</h2>
+  <p>
+    I am a Computer Science Engineering student at Rajadhani Institute of Engineering and Technology, 
+    driven by curiosity and a passion for solving problems. Coming from a biology background, I bring 
+    a unique perspective to technology — blending analytical thinking with creativity.
+  </p>
+ 
+</section>
+
+
+
+<section id="skills" class="card">
+  <h2>Skills</h2>
+  <div class="skills-grid">
+    <div class="skill"><i class="fab fa-python"></i><p>Python</p></div>
+    <div class="skill"><i class="fab fa-java"></i><p>C programming</p></div>
+
+  </div>
+
+
+
+<section class="contact-card" id="contact">
+  <div class="contact-header">
+    <i class="fas fa-user-circle"></i>
+    <h2>Contact Me</h2>
+  </div>
+
+  <p><i class="fas fa-envelope"></i> gopika2822007@gmasil.com</p>
+  <p><i class="fas fa-phone"></i> +918590847505</p>
+  <p><i class="fas fa-map-marker-alt"></i> Kollam, Kerala, India</p>
+
+  <div class="social-links">
+    <a href="https://www.linkedin.com/in/k-gopika28" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-linkedin"></i> LinkedIn
+    </a>
+    <a href="https://github.com/K-Gopika28 boop" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-github"></i> GitHub
+    </a>
+  </div>
+
+  <p class="note">Excited to collaborate on projects, share ideas, and explore new opportunities!</p>
+</section>
+
+
+
+<!-- Popup Modal -->
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <h2 id="modal-title"></h2>
+    <p id="modal-desc"></p>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -23,8 +23,8 @@
 
 <section class="hero">
   <div class="hero-text">
-    <h1>Hi, I'm <span>K GopikaR</span></h1>
-    <h3>Computer Science Engineering Student</h3>
+    <h1>Hi, I'm <span>K Gopika</span></h1>
+    <h3>Computer Science and Engineering Student</h3>
     <p>Interested in Software Development and Artificial Intelligence </p>
    
   </div>
@@ -71,15 +71,6 @@ Hi, I'm K Gopika, a B.Tech Computer Science and Engineering student passionate a
 </section>
 
 
-
-<!-- Popup Modal -->
-<div id="modal" class="modal">
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <h2 id="modal-title"></h2>
-    <p id="modal-desc"></p>
-  </div>
-</div>
 
 
 </body>

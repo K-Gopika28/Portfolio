@@ -72,9 +72,6 @@
     </a>
   </div>
 
-  <p class="note">Excited to collaborate on projects, share ideas, and explore new opportunities!</p>
-</section>
-
 
 
 <!-- Popup Modal -->
@@ -86,6 +83,6 @@
   </div>
 </div>
 
-<script src="script.js"></script>
+
 </body>
 </html>

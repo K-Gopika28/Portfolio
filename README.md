@@ -26,7 +26,7 @@
 <section class="hero">
   <div class="hero-text">
     <h1>Hi, I am <span>K Gopika</span></h1>
-    <h3>Computer Science Engineering Student</h3>
+    <h3>Computer Science and Engineering Student</h3>
     <p>Interested in Software Development and Artificial Intelligence.</p>
     <a class="btn" href="#projects">View Projects</a>
   </div>
@@ -113,7 +113,7 @@
 
 <section id="certificates" class="card">
   <h2>Certificates & Workshops</h2>
-  <div class="cert-gallery">
+
  
     <div class="cert" data-title="NASSCOM Certificate" data-desc="NASSCOM Digit Edge 101 recognition.">
       <i class="fas fa-award"></i> NASSCOM Certificate

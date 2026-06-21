@@ -77,10 +77,7 @@
   <div class="timeline">
     <div class="timeline-item">
       <div class="timeline-icon"><i class="fas fa-globe"></i></div>
-      <div class="timeline-content">
-        <h3>First Project – Webpage</h3>
-        
-      </div>
+ 
     </div>
 <div class="timeline-item">
       <div class="timeline-icon"><i class="fas fa-lightbulb"></i></div>
@@ -117,13 +114,7 @@
 <section id="certificates" class="card">
   <h2>Certificates & Workshops</h2>
   <div class="cert-gallery">
-    <div class="cert" data-title="Modern Ai Systems" data-desc="Modern AI Systems.">
-      <i class="fas fa-file-alt"></i>Course
-    </div>
-    <div class="cert" data-title="Course" data-desc="Web Development-My Captain.">
-      <i class="fas fa-chalkboard-teacher"></i>Course
-    </div>
-   
+ 
     <div class="cert" data-title="NASSCOM Certificate" data-desc="NASSCOM Digit Edge 101 recognition.">
       <i class="fas fa-award"></i> NASSCOM Certificate
     </div>

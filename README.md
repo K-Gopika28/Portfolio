@@ -73,7 +73,7 @@
     <div class="timeline-item">
       <div class="timeline-icon"><i class="fas fa-globe"></i></div>
  
-    </div>
+    
 <div class="timeline-item">
       <div class="timeline-icon"><i class="fas fa-lightbulb"></i></div>
       <div class="timeline-content">

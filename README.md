@@ -85,7 +85,7 @@
         <h3>My Portfolio Website –  Project</h3>
         <p>Designed an HTML based Portfolio for an innovative project.</p>
       </div>
-    </div>
+    
    
     
   

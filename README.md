@@ -79,14 +79,12 @@
       <div class="timeline-icon"><i class="fas fa-globe"></i></div>
       <div class="timeline-content">
         <h3>First Project – Webpage</h3>
-        <p>Created my very first webpage project, learning the basics of HTML and CSS.</p>
+        
       </div>
     </div>
-    <div class="timeline-item">
-      <div class="timeline-icon"><i class="fas fa-lightbulb"></i></div>
-      <div class="timeline-content">
+
         <h3>My Portfolio Website –  Project</h3>
-        <p>Designed an HTML based Portfolio of an innovative project.</p>
+        <p>Designed an HTML based Portfolio for an innovative project.</p>
       </div>
     </div>
    

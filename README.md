@@ -111,16 +111,6 @@
     
 </section>
 
-<section id="certificates" class="card">
-  <h2>Certificates & Workshops</h2>
-
- 
-    <div class="cert" data-title="NASSCOM Certificate" data-desc="NASSCOM Digit Edge 101 recognition.">
-      <i class="fas fa-award"></i> NASSCOM Certificate
-    </div>
-  </div>
-</section>
-
 
 <section class="contact-card" id="contact">
   <div class="contact-header">

@@ -125,11 +125,3 @@
       <i class="fab fa-github"></i> GitHub
     </a>
   </div>
-
- 
-</section>
-
-
-
-</body>
-</html>

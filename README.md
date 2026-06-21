@@ -88,7 +88,7 @@
     </div>
    
     </div>
-  </div>
+  
 </section>
 <section id="achievements" class="card">
   <h2>Achievements</h2>

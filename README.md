@@ -106,7 +106,7 @@
         <h3>S1 SGPA 9.23</h3>
         <p>Strong academic performance in first semester.</p>
       </div>
-    </div>
+    
        
     
 </section>
@@ -146,14 +146,6 @@
 
 
 
-<!-- Popup Modal -->
-<div id="modal" class="modal">
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <h2 id="modal-title"></h2>
-    <p id="modal-desc"></p>
-  </div>
-</div>
 
 
 </body>

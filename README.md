@@ -82,7 +82,9 @@
         
       </div>
     </div>
-
+<div class="timeline-item">
+      <div class="timeline-icon"><i class="fas fa-lightbulb"></i></div>
+      <div class="timeline-content">
         <h3>My Portfolio Website –  Project</h3>
         <p>Designed an HTML based Portfolio for an innovative project.</p>
       </div>
@@ -162,6 +164,6 @@
   </div>
 </div>
 
-<script src="script.js"></script>
+
 </body>
 </html>

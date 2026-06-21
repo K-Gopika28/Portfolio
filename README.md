@@ -63,12 +63,7 @@
   <h2>Projects</h2>
   <div class="projects">
 
-    <!--My Portfolio Website -->
-    <div class="project" data-title="My Portfolio Website– Project" data-desc="Based on HTML,CSS,Javascript.">
-      <i class="fas fa-tint project-icon"></i>
-      <h3>My Portfolio Website – Project</h3>
-      <p>Based on HTML,CSS,Javascript.</p>
-    </div>
+    
 </section>
 
 
